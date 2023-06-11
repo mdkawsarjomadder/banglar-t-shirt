@@ -1,0 +1,12 @@
+.t-conatner{
+margin-top: 10px;
+border: 2px solid lightblue;
+border-radius: 20px;
+padding: 15px;
+
+}
+.t-conatner img{
+      height: 250px;
+      border: 1px solid grey;
+      border-radius:15px;
+}
