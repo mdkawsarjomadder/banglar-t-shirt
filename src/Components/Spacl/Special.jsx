@@ -1,10 +1,13 @@
-import React from 'react';
+import React, { useContext } from 'react';
 
 const Special = ({ring}) => {
+    
+      // const aginty = useContext(RingContaxt)
+      
       return (
             <div>
                   <h2>Special</h2>
-                  <p> <small className=''>RIng: {ring}</small></p>
+                  <p> <small >RIng: {ring}</small></p>
             </div>
       );
 };
